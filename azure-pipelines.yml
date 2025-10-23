@@ -1,5 +1,7 @@
 trigger:
-- '*'
+  branches:
+    include:
+      - unit-tests
 
 pool:
   name: 'Default' # Replace Default with the name of your agent pool if you used a different pool

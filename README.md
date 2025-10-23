@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kweason69/MSLearn-SpaceGame-Workflow/_apis/build/status%2Fkweason69-sudo.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/kweason69/MSLearn-SpaceGame-Workflow/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
@@ -63,3 +64,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
